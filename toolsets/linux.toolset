@@ -1,0 +1,6 @@
+
+template: __builtin_clang
+compiler: clang++-10 -g2 -Og -Xclang -fcolor-diagnostics -Wall -Wextra -Werror
+compiler-cpp: clang++-10 -g2 -Og -Xclang -fcolor-diagnostics -std=c++2a -Wall -Wextra -Werror
+
+
